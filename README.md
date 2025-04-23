@@ -1,9 +1,4 @@
 # AufgabenVerwaltung
-
-Dieses Projekt implementiert eine einfache Konsolen-basierte Aufgabenverwaltung in reinem Java ohne Enums und ohne Streams. Es besteht aus vier Klassen/Interfaces:
-
----
-
 ## 1. `Task` (Interface)
 Definiert das Grundgerüst einer Aufgabe.
 
